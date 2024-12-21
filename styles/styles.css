@@ -1,0 +1,232 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #FAFAFA;
+  overflow-x: hidden;
+}
+
+header {
+  width: 1140px;
+  padding: 12px 80px;
+  margin-bottom: 76px;
+}
+
+#headerDiv {
+  width: 980px;
+  display: inline-block;
+}
+
+#headerLogo {
+  padding: 13.489px;
+  vertical-align: middle;
+  width: 146.683px;
+  height: 21.023px;
+}
+
+#navDiv {
+  max-width: 701.34px;
+  width: 100%;
+  margin: 0 auto;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+nav {
+  max-width: 343px;
+  width: 100%;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+#ulOne {
+  vertical-align: middle;
+  display: inline-block;
+  text-align: center;
+  padding: 0 0 0 0;
+}
+
+#liOne {
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+#liLinkOne {
+  color: #323232;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+#liTwo {
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+#liLinkTwo {
+  color: #323232;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+#liThree {
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+#liLinkThree {
+  color: #323232;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+#liFour {
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+}
+
+#liLinkFour {
+  color: #323232;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+#buttonDiv {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#buttonOne {
+  vertical-align: middle;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid #AC00FF;
+  background: #E9D7FE;
+  color: #AC00FF;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  cursor: pointer;
+}
+
+#contentMother {
+  max-width: 1492px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#contentDiv {
+  max-width: 841px;
+  width: 100%;
+}
+
+#headingDiv {
+  max-width: 720px;
+  width: 100%;
+}
+
+#heading {
+  color: #323232;
+  font-family: Impact;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 74px;
+}
+
+#contentOne {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+#pContent {
+  color: #323232;
+  font-family: "Inria Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#contentEnd {
+  max-width: 424px;
+  width: 100%;
+}
+
+#buttonTwo {
+  width: 204px;
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 0;
+  background: #5C3BAE;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  vertical-align: middle;
+  margin-right: 24px;
+  cursor: pointer;
+}
+
+#videoDiv {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#playImg {
+  width: 32.013px;
+  height: 32.013px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+#videoLink {
+  color: #4D3491;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: none;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#cards {
+  display: block;
+  text-align: right;
+}
